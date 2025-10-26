@@ -29,7 +29,7 @@ export const fetchGitHubBanner = async (gitHubUsername: string, repositoryName: 
                     success: false,
                     message: `⚠️📂 In the repository >${repositoryName}< the "public" folder was not found.`,
                     details: {
-                        suggestion: 'Create a "public" folder and insert your banner (e.g: banner.png, banner.jpg or banner.svg)',
+                        suggestion: 'Create a "public" folder and insert your banner (e.g: /public/bannerXYZ.svg - bannerABC.png - bannerEFG.jpg)',
                         status: 404,
                     },
                 };
