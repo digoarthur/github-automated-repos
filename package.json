@@ -1,18 +1,15 @@
 {
     "name": "github-automated-repos",
     "version": "1.4.0",
-    "description": "The library, ReactJS, that gives you the power to control / automate your GitHub data, your projects on the portfolio / website, in your own GitHub in one place!",
+    "description": "A powerful React library that automatically displays and updates your GitHub repositories on your portfolio or personal website. Use simple React hooks to sync your GitHub projects and keep your developer portfolio always up to date.",
     "author": {
-        "name": "Diego Arthur @digoarthur",
+        "name": "Diego Arthur (@digoarthur)",
         "url": "https://www.linkedin.com/in/digoarthur/",
         "github": "https://github.com/DIGOARTHUR"
     },
     "repository": {
-        "type": "git",
-        "url": "https://github.com/DIGOARTHUR/github-automated-repos.git"
-    },
-    "bugs": {
-        "url": "https://github.com/DIGOARTHUR/github-automated-repos/issues"
+        "type": "github",
+        "url": "https://github.com/digoarthur/github-automated-repos"
     },
     "homepage": "https://github-automated-repos.vercel.app",
     "license": "MIT",
@@ -41,28 +38,43 @@
         "changelog": "conventional-changelog --config changelog-config.js -i CHANGELOG.md -s -r 0"
     },
     "keywords": [
-        "reactjs-library",
-        "github-integration",
-        "github-api",
-        "repositories-automation",
-        "github-repos-display",
-        "developer-portfolio",
-        "github-portfolio",
-        "portfolio-automation",
-        "project-showcase",
+        "react",
+        "reactjs",
+        "react-library",
         "react-hook",
-        "javascript-library",
-        "frontend-library",
-        "react-query-support",
-        "automate-projects",
-        "manage-repositories",
-        "github-topics",
-        "dynamic-content",
+        "usegithubautomatedrepos",
+        "github",
+        "github-api",
+        "github-repositories",
+        "github-repos-display",
+        "github-projects",
+        "github-integration",
+        "github-portfolio",
+        "developer-portfolio",
+        "portfolio-automation",
+        "portfolio-builder",
+        "portfolio-integration",
+        "auto-update-portfolio",
+        "sync-github-repos",
+        "display-github-projects",
+        "react-github-component",
+        "react-github-integration",
+        "react-github-projects",
+        "fetch-github-repos",
+        "automate-github-portfolio",
+        "github-projects-showcase",
+        "frontend-github-automation",
+        "react-developer-tools",
         "open-source-tools",
-        "developer-tools",
-        "npm-library",
-        "react-libraries"
+        "project-showcase"
     ],
+    "engines": {
+        "node": ">=16"
+    },
+    "readmeFilename": "README.md",
+    "publishConfig": {
+        "access": "public"
+    },
     "devDependencies": {
         "@semantic-release/release-notes-generator": "^14.0.3",
         "@types/json-schema": "^7.0.15",

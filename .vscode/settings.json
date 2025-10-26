@@ -1,24 +1,39 @@
 {
-  // Formatar sempre que salvar
+  // Automatically format the code every time you save a file.
   "editor.formatOnSave": true,
 
-  // Prettier como padrão global
+  // Set Prettier as the global default code formatter for the workspace.
   "editor.defaultFormatter": "esbenp.prettier-vscode",
 
-  // Regras por linguagem
+  // --- Language-specific configurations ---
+
+  // For JavaScript files (.js)
   "[javascript]": {
+    // Format the file automatically when saving.
     "editor.formatOnSave": true,
+    // Use Prettier as the formatter for JavaScript files.
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+
+  // For TypeScript files (.ts)
   "[typescript]": {
+    // Format automatically on save.
     "editor.formatOnSave": true,
+    // Use Prettier as the formatter for TypeScript.
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+
+  // For React TypeScript files (.tsx)
   "[typescriptreact]": {
+    // Format automatically on save.
     "editor.formatOnSave": true,
+    // Use Prettier as the formatter for React TypeScript files.
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+
+  // For JSON files (.json)
   "[json]": {
+    // Use VS Code’s built-in JSON formatter (not Prettier).
     "editor.defaultFormatter": "vscode.json-language-features"
   }
 }
