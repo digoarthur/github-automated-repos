@@ -1,7 +1,4 @@
-<!--
-https://www.google.com/search?client=opera-gx&q=uso+react+query+AI+pokemon&sourceid=opera&ie=UTF-8&oe=UTF-8
 
--->
 
 <!--Commit changes
 
@@ -148,9 +145,41 @@ https://user-images.githubusercontent.com/59892368/219479919-5e84de50-6b7d-4d42-
 
 </p>
 
+
+
+  
+<!-------------------------------------------------- -->
+<!------------------------------------------ DESCRIPTION-->
+<!-------------------------------------------------- -->
+
+# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  About Library <!---write here : talk a little about project: what's does, example.  -->
+> This library automates the view your GitHub projects on your porfolio / website in one place. But how? Make the code configuration only once in your application with github-automated-repos, and manage the view of your projects on GitHub in the Topics field. Choose which project will be seen, and you can even customize your project card, for example, with a representative icon and show which stacks were used. All in one place!
+
+
+
+<details>
+<summary> Details </summary>
+
+   |                             Control your projects                     |
+| :-------------------------------------------------------------------: |
+|   ![Control your Projects](https://user-images.githubusercontent.com/59892368/214140611-910cd26b-280d-48f1-8652-65034f04a4f8.gif) |
+
+
+|                             Customize and represent through icons.                |
+| :--------------------------------------------------------------: |
+|   ![Customize and represent through icons](https://user-images.githubusercontent.com/59892368/214817180-519e403f-0fa4-4bfd-a6cc-5eb63d3360e8.gif)|  
+
+  
+|                               In one place                               |
+| :-------------------------------------------------------------------: |
+|   ![In one place](https://user-images.githubusercontent.com/59892368/214930109-119c4b38-9862-4a3d-a130-2dfad5c4bcb6.gif)|
+
+
+</details>
    
 
-   
+<br/>
+<br/>
 
 <!------------------------------------ -------------------->
  <!------------------------------------GETTING START-->
@@ -158,8 +187,9 @@ https://user-images.githubusercontent.com/59892368/219479919-5e84de50-6b7d-4d42-
 
 ----
 
+# init - CLI
 
-## 1. Run Command - CLI
+## 1. Run Command
 
 
 ```yaml
@@ -211,13 +241,22 @@ Next, you’ll choose a keyword (for example: <code> attached  </code>,  <code>p
 
 
 
-## 3. Page Generation (cmd)
+## 3. Page Generation Example (cmd)
 
- Once confirmed, the CLI will:
-- Generate the project page
-- Inject the correct logic
-- Connect it to github-automated-repos
-- Finalize the template
+```yaml
+√ Target file already exists:
+C:\Users\Leveling IT\Desktop\Person-Page\testenext\app\projects\page.tsx
+What would you like to do? » Overwrite
+✔ GitHub username: digoarthur
+✔ Keyword to filter (e.g. 'attached'): attached
+✔ Template ready.
+✔ File created at: C:\Users\Leveling IT\Desktop\Person-Page\testenext\app\projects\page.tsx
+
+✨ Your project page is ready!
+🔗 http://localhost:3000/projects
+
+Init finished successfully.
+```
 
 ## 4. Result
 
@@ -263,8 +302,6 @@ Your project page is now ready 🎉
 
 </div>
 
-
-![dots-horizontal-svgrepo-com (2)](https://github.com/user-attachments/assets/8914275f-9f76-4ff5-be40-e1b36c603633)
 
 
 ## 6. Choose the repositories and fill in the Topics field with the keyword you determined.
@@ -433,59 +470,29 @@ Array(0)
 
 
 
-  
-<!-------------------------------------------------- -->
-<!------------------------------------------ DESCRIPTION-->
-<!-------------------------------------------------- -->
-
-# <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/148622497-164365e8-f6b0-4f40-bc75-a0ed4da6059b.png">  About Library <!---write here : talk a little about project: what's does, example.  -->
-> This library automates the view your GitHub projects on your porfolio / website in one place. But how? Make the code configuration only once in your application with github-automated-repos, and manage the view of your projects on GitHub in the Topics field. Choose which project will be seen, and you can even customize your project card, for example, with a representative icon and show which stacks were used. All in one place!
-
-   |                             Control your projects                     |
-| :-------------------------------------------------------------------: |
-|   ![Control your Projects](https://user-images.githubusercontent.com/59892368/214140611-910cd26b-280d-48f1-8652-65034f04a4f8.gif) |
-
-
-|                             Customize and represent through icons.                |
-| :--------------------------------------------------------------: |
-|   ![Customize and represent through icons](https://user-images.githubusercontent.com/59892368/214817180-519e403f-0fa4-4bfd-a6cc-5eb63d3360e8.gif)|  
-
-  
-|                               In one place                               |
-| :-------------------------------------------------------------------: |
-|   ![In one place](https://user-images.githubusercontent.com/59892368/214930109-119c4b38-9862-4a3d-a130-2dfad5c4bcb6.gif)|
 
 
 
- </br>
- 
- ---
- 
-</br>  
 
   
 
-<!------------------------------------------------>
-<!------------------------------------ IMPORT -->
-<!-------------------------------------------- -->
-  
-# <img  alt="Hook Import"  height="30" src="https://github.com/user-attachments/assets/b7c52fa3-ba47-4f19-8dd3-ccd9d6395b76"> Import Library  &nbsp;&nbsp;  <!---write here : demonstration of the application layout.  -->
+<!----------------------------------------------------------->
+<!--------------------------- HOOK & COMPONENTS ------------->
+<!--------------------------------------------------------- -->
 
-> The github-automated-repos library imports 4 resources: hook `useGitHubAutomatedRepos`,   `ReactQueryProvider` , `StackIcons` component and `StackLabels` component.
 
-```jsx
-import { useGitHubAutomatedRepos, ReactQueryProvider, StackIcons, StackLabels } from 'github-automated-repos';
-```
-    
+
+
+# <img width="50" height="50" alt="hook-svgrepo-com" src="https://github.com/user-attachments/assets/9d0e91e7-d6f4-4a99-aed7-2aa8211d6e8f" /> <img width="50" height="50" alt="abstract" src="https://github.com/user-attachments/assets/228dc2cb-8aad-4d79-9d9a-71bd39e201af" /> Hook & Components
+
+   
  <details>   
 
 </p>
 
   <br>
 
-### The package imports 4 elements:
 
-- `ReactQueryProvider` tool used to optimize the requirements of the API. Don’t forget to set it up! [Code Example](https://github.com/DIGOARTHUR/github-automated-repos/tree/main?tab=readme-ov-file#code-example-1) 
 
 - `useGitHubAutomatedRepos` hook responsible for automating the return of data from repositories. This hook takes two parameters: GitHubUsername & keyword. The return is an array of objects containing 7 properties: id, banner, html_url, homepage, topics, name and description.
 
@@ -975,6 +982,7 @@ createRoot(document.getElementById('root')!).render(
   
   
   
+
 
 
 
