@@ -158,21 +158,13 @@ https://user-images.githubusercontent.com/59892368/219479919-5e84de50-6b7d-4d42-
 
 ----
 
-# Getting Start [ 6 steps ]
 
-## 1. Installation
+## 1. Run Command - CLI
 
-![npm](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287469113-6498d9f5-9884-43fd-b203-e9ae7de0984e.svg)
-```shell
-npm install github-automated-repos 
+
+```yaml
+npx github-automated-repos-cli init
 ```
-
-
-![yarn](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774024-f3af28e4-40c9-4b02-b5e4-c33702c2fca0.svg)
-```shell
-yarn add github-automated-repos
-```
-
 
 <div align="center">
     
@@ -181,41 +173,35 @@ yarn add github-automated-repos
 </div>
 
 
-## 2. Config. ReactQuery (ViteJS)
+## 2. Enter data
+
+#### 🦑 GitHub Username
+
+You will be prompted to enter your GitHub username.
+
+> This is used to fetch your public repositories directly from GitHub.
+
+```yaml
+✔ GitHub username: xxxxxx
+
+```
+
+#### 🔑 Keyword (Repository Filter)
+
+Next, you’ll choose a keyword (for example: <code> attached  </code>,  <code>portfolio </code>,  <code>featured </code>).
+
+> This keyword will be used to filter repositories via the GitHub Topics field.
+
+```yaml
+✔ Keyword to filter (e.g. 'attached'): attached
+```
+
 > [!IMPORTANT]
-> Don’t forget to configure the `React Query`!!! See NextJS code example. [Code Example](https://github.com/DIGOARTHUR/github-automated-repos/tree/main?tab=readme-ov-file#code-example-1)
-
-```tsx    
- import { ReactQueryProvider } from 'github-automated-repos'
- createRoot(document.getElementById('root')!).render(
-   <ReactQueryProvider >
-     <StrictMode>
-       <App />
-     </StrictMode>
-   </ReactQueryProvider>
-   ,
-  )
-```
-
-      
-<div align="center">
-    
-![dots-horizontal-svgrepo-com (2)](https://github.com/user-attachments/assets/8914275f-9f76-4ff5-be40-e1b36c603633)
-
-</div>
+> Don't forget to enter your Keyword in the Topics field of each project so it appears on the generated page.
 
 
-## 3. Using hook ( useGitHubAutomatedRepos() )
+![image](https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/9a0a0aaf-02e8-4a7f-8390-6e7fb4a3ea53)
 
-> [!CAUTION]
-> :exclamation::exclamation: Don't forget to fill in the fields: your GitHubUsername and keyWord (chosen by you).
-
-```typescript     
-    import { useGitHubAutomatedRepos } from "github-automated-repos";
-
-    const { data, isLoading, isLoadingError } = useGitHubAutomatedRepos("GitHubUsername", "KeyWord");
-
-```
 
 <div align="center">
     
@@ -225,7 +211,34 @@ yarn add github-automated-repos
 
 
 
-## 4. Banner
+## 3. Page Generation (cmd)
+
+ Once confirmed, the CLI will:
+- Generate the project page
+- Inject the correct logic
+- Connect it to github-automated-repos
+- Finalize the template
+
+## 4. Result
+
+Your project page is now ready 🎉
+
+```arduino
+✨ Your project page is ready!
+🔗 http://localhost:3000/projects
+```
+
+
+
+<div align="center">
+    
+![dots-horizontal-svgrepo-com (2)](https://github.com/user-attachments/assets/8914275f-9f76-4ff5-be40-e1b36c603633)
+
+</div>
+
+
+
+## 5. Banner
 
 > Insert banner, layout images to represent your project. Types are `.PNG` and `.SVG`. For this to be possible, the name of the image file must contain `banner`in the name. Insert your images in the following path: Ex.:
 
@@ -251,7 +264,10 @@ yarn add github-automated-repos
 </div>
 
 
-## 5. Choose the repositories and fill in the Topics field with the keyword you determined.
+![dots-horizontal-svgrepo-com (2)](https://github.com/user-attachments/assets/8914275f-9f76-4ff5-be40-e1b36c603633)
+
+
+## 6. Choose the repositories and fill in the Topics field with the keyword you determined.
 
 ![image](https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/9a0a0aaf-02e8-4a7f-8390-6e7fb4a3ea53)
 
@@ -336,7 +352,7 @@ yarn add github-automated-repos
 </div>
 
 
-## 6. ✅Ready! JSON - Data from repositories chosen by you!
+## 7. ✅Ready! JSON - Data from repositories chosen by you!
 > [!TIP]
 >  Customize your cards your way
 
@@ -374,9 +390,16 @@ Array(0)
 > [!TIP]
 >  Customize your cards your way!
 
-![portfolio_page](https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/05e5ab60-5851-4aab-911f-19227a75dc72)
+
+
+![portfolio_page](https://github.com/user-attachments/assets/73a4e4a4-fc3e-47e3-8bdd-0117e22df51e)
 
 </details>
+
+
+
+
+
 
 
 
@@ -952,6 +975,7 @@ createRoot(document.getElementById('root')!).render(
   
   
   
+
 
 
 
