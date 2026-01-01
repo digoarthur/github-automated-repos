@@ -446,33 +446,6 @@ Array(0)
  
 </br>    
 
-   <!------------------------------------SHIELDS STACKS-->
-   
-  <!--
-  <a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Map-/?logo=JavaScript&logoColor=white&color=yellow)<a/>
- <a href="https://devdigoarthur.notion.site/Context-API-610980ad0db948709d364efc919a454e"> ![Alt ou título da imagem](https://img.shields.io/badge/-ContextAPI-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
-<a href="https://devdigoarthur.notion.site/Estado-e7c7508cb6bd4d81984ba5e8e50eab67">  ![Alt ou título da imagem](https://img.shields.io/badge/-State-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
-   <a href="https://devdigoarthur.notion.site/Componentes-bc3ca1ebd97d4ccc8d11e6ab668eeb73"> ![Alt ou título da imagem](https://img.shields.io/badge/-Components-/?logo=CreateReactApp&logoColor=white&color=9cf)<a/>
- -->
- 
- 
- <!------------------------------------TOOLS-->
-  <!--
- #### Tools:
- <a href="https://code.visualstudio.com/"><img  alt="Vscode"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149663512-3f83da57-bdfe-4cef-bcc2-feb304a738ff.png"><a/>
- <a href="https://git-scm.com/"><img  alt="Git"  width="50" height="50" src="https://user-images.githubusercontent.com/59892368/149677999-f5947f0b-e535-4ba2-911c-1c5926045c35.png"><a/>        
-     
-<hr>
-   -->
- 
-  
-
-
-
-
-
-
-
 
   
 
@@ -608,7 +581,7 @@ Array(0)
 
  </br>
  
- ---
+
  
 </br>  
 
@@ -624,9 +597,6 @@ Array(0)
 
 > [!IMPORTANT]
 > Pay attention to filling in each field of your repository on GitHub.
-
-![Example Cards Porftolio github-automated-repos](https://github.com/user-attachments/assets/b7bf498f-6d21-4d34-8807-b8d6e27cb9e8)
-
 
  <details>   
 <br/>
@@ -690,20 +660,41 @@ Array(0)
 
 </details>
 
+![Example Cards Porftolio github-automated-repos](https://github.com/user-attachments/assets/b7bf498f-6d21-4d34-8807-b8d6e27cb9e8)
+
+
+
+
 
 
  </br>
  
- ---
+
  
 </br>  
 
 
 ## <img  alt="NextJS"  width="50" height="50" src="https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/eb3732e9-d3a9-4f9f-b706-8969557681aa"> React Query Config.
 
-<details>
+> [!NOTE]
+> Follow the official standard React Query installation instructions.
 
-</details>
+
+```tsx
+import { useGitHubAutomatedRepos, StackIcons, StackLabels } from "github-automated-repos/react-query";
+```
+
+#### Hook Example:
+
+```tsx
+// Usage Example + [ React Query ]
+const { data, isLoading } = useGitHubAutomatedRepos('digoarthur', 'attached', {
+ refetchInterval: 300000, // 5 minutes
+ refetchOnWindowFocus: false,
+ staleTime: 10 * 60 * 1000, // 10 minutes
+});
+```
+
 
 
 
@@ -728,47 +719,13 @@ Array(0)
    
   
 
- <!------------------------------------LIST: STACKS , LIBS & TOOLS ... -->
-<!---
-## <img  alt="skills"  width="40" height="40" src="https://user-images.githubusercontent.com/59892368/197614534-e12fb94a-b5cf-44ff-8d57-debad7299b0b.png"> Stacks for construction <!---write here: learned concepts; -->
-<!---
-### API
-       
-  <a href="https://docs.github.com/en/rest/repos/repos?apiVersion=2022-11-28#get-a-repository"> ![Alt ou título da imagem](https://img.shields.io/badge/-APIGithub-/?logo=GitHub&logoColor=white&color=gray)<a/>
-  
-### Language
-  
-<a href="https://devdigoarthur.notion.site/Map-a87c73417a064372b122bf448f4c6ed4"> ![Alt ou título da imagem](https://img.shields.io/badge/-Typescript-/?logo=Typescript&logoColor=white&color=informational)<a/>
-     
-### Framework / Lib
-
- <a href="https://reactjs.org"> ![Alt ou título da imagem](https://img.shields.io/badge/-ReactJS-/?logo=React&logoColor=white&color=blue)<a/> 
-
- ### Package Manager/ Libs
- <a href="https://yarnpkg.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Yarn-/?logo=Yarn&logoColor=white&color=blue)<a/> 
-*  [`Eslint`](https://www.npmjs.com/package/eslint) 
-*  [`Prettier`](https://www.npmjs.com/package/prettier) 
-*  [`Husky`](https://www.npmjs.com/package/husky)  
-*  [`Lint-staged`](https://www.npmjs.com/package/lint-staged) 
-*  [`Commitizen`](https://www.npmjs.com/package/commitizen)  
-
- 
- 
-
-
- ### Versioning
- <a href="https://git-scm.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-Git-/?logo=Git&logoColor=white&color=red)<a/> 
- ### IDE
- <a href="https://code.visualstudio.com"> ![Alt ou título da imagem](https://img.shields.io/badge/-VisualStudioCode-/?logo=VisualStudioCode&logoColor=white&color=informational)<a/> 
-
--->
-
 
 
 
   
   
   
+
 
 
 
