@@ -125,13 +125,20 @@ https://user-images.githubusercontent.com/59892368/219479919-5e84de50-6b7d-4d42-
    <!------------------------------------ -------------------->
 
 
+
+
+
+
+
+
+
 <p align="center" alt="github-automated-repos summary">
 
-<a href="https://github.com/DIGOARTHUR/github-automated-repos/?tab=readme-ov-file#--about-library-">
+<a href="https://github.com/digoarthur/github-automated-repos?tab=readme-ov-file#--about-library-">
     <img   src="https://github.com/user-attachments/assets/fa24923b-77a4-4ac5-ab83-215120c74296" alt="About Library" >
 <a/> &nbsp;&nbsp;
-<a href="https://github.com/DIGOARTHUR/github-automated-repos/?tab=readme-ov-file#-import-library----">
-    <img   src="https://github.com/user-attachments/assets/06d1ba3d-76be-40e2-a803-87f9a8151447" alt="Hook Import" border="0">
+<a href="https://github.com/digoarthur/github-automated-repos?tab=readme-ov-file#init---cli">
+    <img   src="https://github.com/user-attachments/assets/d257063a-cc08-4b34-abac-a8babc84f2a5" alt="init - CLI" border="0">
 <a/>&nbsp;&nbsp;
 
  <a href="https://github.com/DIGOARTHUR/github-automated-repos/?tab=readme-ov-file#-fill-in-the-fields-in-the-github-repository">
@@ -339,46 +346,6 @@ Your project page is now ready 🎉
 </div>
 
 
-## StackIcons Table 
-<details>
-
-<br/>
-<br/>
-
-<div align='center'>
-
-
-|  Logo  | Stack Name   |  Logo  | Stack Name   |   Logo  | Stack Name   |  Logo  | Stack Name   |                                                                                                                                                  
-| :---:  | ---        | :---:  | ---     |     :---:  | ---     |     :---:  | ---     |                                                                                                                                         
-| ![androidstudio](https://user-images.githubusercontent.com/59892368/216783644-f664d47c-f686-496d-8073-2e83b2b469ab.svg) | `androidstudio` |  ![angular](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532135-7c81a717-da75-4aeb-ab22-95fc2a3254be.svg) | `angular` | ![arduino](https://user-images.githubusercontent.com/59892368/216785825-af6a605c-6ca3-4bb5-9889-31ad818fb20b.svg) | `arduino` | ![aws](https://user-images.githubusercontent.com/59892368/215260536-748d14f8-5242-4d5a-9faf-6d62ed38a87a.svg) | `aws` |
-| ![babel](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285172839-1483ec96-ea00-4fa4-8daa-5b6c48294d4c.svg) | `babel` | ![bash](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/279798875-371442d4-bd43-4597-8075-ff506529c123.svg) | `bash` |  ![bitbucket](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285174758-c7b4d643-1b6c-4281-9e1e-a59ff4a8b36a.svg) | `bitbucket` | ![blender](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182560-49ae39de-ad6b-4b96-be9f-cddb58b2406c.svg) | `blender` |                                         
-| ![bootstrap](https://user-images.githubusercontent.com/59892368/218274368-89a94705-c5b1-42a6-813d-4aaa2a1334e3.svg) | `bootstrap` | ![c](https://user-images.githubusercontent.com/59892368/215260535-be3713a8-d075-4c85-88ca-4b3703f9e7b3.svg) | `c` | ![canva](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774022-8ae44b49-fbef-4868-b441-24a37490be36.svg) | `canva` | ![clion](https://user-images.githubusercontent.com/59892368/216813068-bc05f852-f006-4ff6-85e2-d8988f6afbf9.svg) | `clion` |
-| ![cpp](https://user-images.githubusercontent.com/59892368/215260533-1ede6b38-7c51-4c89-ac2c-a1195c2b912b.svg) | `cpp` | ![csharp](https://user-images.githubusercontent.com/59892368/215260532-33106206-6ca4-4d11-bdc3-9171491979a5.svg) | `csharp` | ![css3](https://user-images.githubusercontent.com/59892368/210762519-fc191098-1198-4668-9eb5-d0c1481da8c7.svg) | `css3` | ![dart](https://user-images.githubusercontent.com/59892368/215260531-179da616-9fc3-41de-99ed-15dddf2d021b.svg) | `dart` |
-| ![denojs](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532091-b11ecf66-5fb2-4158-b48a-99afc85c6a2b.svg) | `denojs` | ![django](https://user-images.githubusercontent.com/59892368/215260529-5fb18a51-b2bc-4092-8a87-f051f89dd30e.svg) | `django` | ![docker](https://user-images.githubusercontent.com/59892368/215260528-b50b803d-a037-4572-812b-95801f48c2bd.svg) | `docker` | ![dotnetcore](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774015-b4e62d28-bb35-4eb0-b10a-580db7ea0fed.svg) | `dotnetcore` |
-| ![eclipse](https://user-images.githubusercontent.com/59892368/216813192-3088dc66-c68e-4e06-b7d0-c7443e3230ed.svg) | `eclipse` | ![elixir](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177064-e7a06c1c-26a2-4d1c-8bde-59ec2c954d5f.svg) | `elixir` | ![eslint](https://user-images.githubusercontent.com/59892368/215260527-373e10c7-04d3-45c5-98b4-74bf586de7f6.svg) | `eslint` | ![expo](https://user-images.githubusercontent.com/59892368/210762516-b48ee0ef-9d7b-4d86-951b-b80515c39783.svg) | `expo` |
-| ![express](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285176547-ffc3317a-e03a-46ee-8bf0-a2566d2513fe.svg) | `express` | ![figma](https://user-images.githubusercontent.com/59892368/215260525-924e0be5-1f36-4d70-a21b-40382b01dab4.svg) | `figma` | ![firebase](https://user-images.githubusercontent.com/59892368/215260523-f958d8c1-8634-4b2c-a880-437f98b1538d.svg) | `firebase` | ![flask](https://user-images.githubusercontent.com/59892368/215260521-e80bde19-b70d-4866-8ef7-a836dd819e17.svg) | `flask` |
-| ![flutter](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177284-da3ab306-20d2-4048-a847-98c71b0468de.svg) | `flutter` | ![gatsby](https://user-images.githubusercontent.com/59892368/215260520-8e935c1a-46b2-451b-a87c-e9f4e7c081c4.svg) | `gatsby` | ![gimp](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177524-25e4a00e-e4f9-442b-a2b2-3f22c07be75e.svg) | `gimp` | ![git](https://user-images.githubusercontent.com/59892368/218274559-3cb134c3-4086-4c49-9f82-fe98f2469bbb.svg) | `git` |
-| ![go](https://user-images.githubusercontent.com/59892368/215260519-e619fbd8-c518-477b-9327-a3afa23f988e.svg) | `go` | ![googlecloud](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177670-cebc6b57-79e3-48df-b896-6d20f19073f0.svg) | `googlecloud` | ![graphql](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/279800785-18c9f9d5-f09d-49ab-ab4d-5ca358a967d4.svg) | `graphql` | ![grunt](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177779-acc162d2-85f3-412f-9399-f9573eb83942.svg) | `grunt` |
-| ![gulpjs](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774029-c2eb189c-a8a1-4d02-8824-b185e176242a.svg) | `gulpjs` | ![haskell](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179295-4b4ca6ff-f290-4bfb-bb93-a6b8f35baee9.svg) | `haskell` | ![heroku](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179420-bd38fb43-1f35-408b-94d1-25de832db6e4.svg) | `heroku` | ![html5](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287469126-74b9f4a1-6862-40a4-bd56-311ce688db46.svg) | `html5` |
-| ![husky](https://user-images.githubusercontent.com/59892368/218274511-2650c740-a811-4b66-8d81-bf3d855d41f7.svg) | `husky` | ![inkscape](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179695-f0de754a-958f-49e4-8bd9-1b099ea18c23.svg) | `inkscape` | ![java](https://user-images.githubusercontent.com/59892368/215260518-171e0fb1-1cd7-4097-bcba-05089c6adf46.svg) | `java` | ![javascript](https://user-images.githubusercontent.com/59892368/210762520-8226f647-a814-4723-8e6d-ed0334550838.svg) | `javascript` |
-| ![jenkins](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179842-dc8fff7f-707a-4a2e-92e9-9e26d22031d7.svg) | `jenkins` | ![jest](https://user-images.githubusercontent.com/59892368/218274370-1e098c22-99fd-4514-b91f-0c4b38f5f888.svg) | `jest` | ![jira](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179925-970136fc-83db-45bc-ba55-748383c44fd2.svg) | `jira` | ![jquery](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285180200-2545ece8-ef19-4b0f-a2e5-b548eb20abd7.svg) | `jquery` |
-| ![jupyter](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285180478-c04f5231-ffcc-498b-9f21-8f95ce165263.svg) | `jupyter` | ![kotlin](https://user-images.githubusercontent.com/59892368/215260517-8904a569-d2ec-48c4-8adc-660e929db93e.svg) | `kotlin` | ![kubernetes](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774027-6a7ef271-a387-464b-a622-c92ae83985e3.svg) | `kubernetes` | ![laravel](https://user-images.githubusercontent.com/59892368/215260515-4f3075d5-ce25-4824-87ff-736ccaf42311.svg) | `laravel` |
-| ![linux](https://user-images.githubusercontent.com/59892368/215260512-04a0d227-c913-4946-9ff4-b3fb691df5ff.svg) | `linux` | ![lua](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285180569-c8f60987-7e27-4c96-aef5-51059342747b.svg) | `lua` | ![markdown](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285180652-eb00dd78-63da-4a4a-96e0-c01c480c2d49.svg) | `markdown` | ![materialui](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285181152-550217a1-f188-4127-9a24-fc85f18b518d.svg) | `materialui` |
-| ![mongodb](https://user-images.githubusercontent.com/59892368/215260514-a4f02cca-c530-4de2-88ee-5250b24a1456.svg) | `mongodb` | ![mysql](https://user-images.githubusercontent.com/59892368/218274731-13fe41e3-ebf9-4bbb-a7d7-c8d43bf46c53.svg) | `mysql` | ![nestjs](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285181240-83984ea0-7fc3-4b55-b423-90ce2a1c911a.svg) | `nestjs` | ![netcore](https://user-images.githubusercontent.com/59892368/215260510-b72be359-f22b-4751-a8ab-41cd4f51c9c9.svg) | `netcore` |
-| ![nextjs](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532311-d8f52862-314c-4be7-aac4-7966823ac3cd.svg) | `nextjs` | ![nodejs](https://user-images.githubusercontent.com/59892368/210762525-21dfac80-b121-4517-b3dd-3f62fe413d5a.svg) | `nodejs` | ![npm](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287469113-6498d9f5-9884-43fd-b203-e9ae7de0984e.svg) | `npm` | ![objectc](https://user-images.githubusercontent.com/59892368/215260537-d56e6052-6182-4edb-a770-842de3b8c24f.svg) | `objectc` |
-| ![pearl](https://user-images.githubusercontent.com/59892368/218274369-fd7185b0-d50c-46fd-8ee1-c6bf36f1ccc6.svg) | `pearl` | ![php](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532082-10413e00-ab9c-4731-a4f6-578394d91e90.svg) | `php` | ![postgresql](https://user-images.githubusercontent.com/59892368/215260507-a1ab30ad-16c5-48b6-8442-4258d3fc828f.svg) | `postgresql` | ![prettier](https://user-images.githubusercontent.com/59892368/215260503-ce103bd2-0249-4be4-9a52-cd3044b30728.svg) | `prettier` |
-| ![prisma](https://user-images.githubusercontent.com/59892368/215260501-ff824fa1-ef05-4de7-af76-1586fc2ac91b.svg) | `prisma` | ![pycharm](https://user-images.githubusercontent.com/59892368/232259760-ec701be5-d9b6-408f-8581-f49e9713d301.svg) | `pycharm` | ![python](https://user-images.githubusercontent.com/59892368/215260500-73b6c85e-d843-4820-a771-b8bdb23ed2d2.svg) | `python` | ![r](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285181945-6a0d5457-5efa-44be-9af9-1064cd535910.svg) | `r` |
-| ![rails](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182048-4a59a52f-b518-4893-b488-0732fd591e17.svg) | `rails` | ![raspberrypi](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285181866-3260e7c9-ef30-469f-82d7-7f301622c7cf.svg) | `raspberrypi` | ![react](https://user-images.githubusercontent.com/59892368/210763677-ee1a0283-eea7-45de-9589-86d7c50a8cb0.svg) | `react` | ![reacticons](https://user-images.githubusercontent.com/59892368/210762509-d3078bc5-8c0c-4765-84f7-cf52532215d4.svg) | `reacticons` |
-| ![redux](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182129-c6253fa0-0b1a-4281-9e6e-f55c3278beb6.svg) | `redux` | ![ruby](https://user-images.githubusercontent.com/59892368/215260498-fefc4d46-7ff1-470c-a011-f73fe070c798.svg) | `ruby` | ![rust](https://user-images.githubusercontent.com/59892368/215260552-e120de00-00a0-4058-9e6f-83e10f552844.svg) | `rust` | ![salesforce](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182197-ff6e769b-a788-41e1-aea5-30af093f0d0b.svg) | `salesforce` |
-| ![sass](https://user-images.githubusercontent.com/59892368/210762521-7383ac1d-c896-4829-b531-61c9a4f0d7ea.svg) | `sass` | ![scala](https://user-images.githubusercontent.com/59892368/215260549-52bfb07f-bbf8-47fe-bc69-222c6211520a.svg) | `scala` | ![sequelize](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182291-2166a7ff-8217-4dc9-91e2-136a3ff7cd4e.svg) | `sequelize` | ![spring](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532120-3da3c4d2-8b53-42b7-a0f6-a14487a6f291.svg) | `spring` |
-| ![sqlite](https://user-images.githubusercontent.com/59892368/215260548-83c41e10-09c6-4ddf-8e12-f56746d6b0f6.svg) | `sqlite` | ![storybook](https://user-images.githubusercontent.com/59892368/215260547-8d55e026-9652-45af-81b7-54f8e4c04d87.svg) | `storybook` | ![styledcomponents](https://user-images.githubusercontent.com/59892368/210762512-f8123c30-3992-4789-abe0-314fdcf45fe3.svg) | `styledcomponents` | ![swagger](https://user-images.githubusercontent.com/59892368/215260545-7ecf92e0-a09f-459b-83aa-e7f7ace9c3dc.svg) | `swagger` |
-| ![switch](https://user-images.githubusercontent.com/59892368/215260544-65e39534-eff5-405d-8739-49271ce21d18.svg) | `switch` | ![tailwind](https://user-images.githubusercontent.com/59892368/215260543-69c977bb-072a-4ed8-bdbc-6d2319098fcf.svg) | `tailwind` | ![typescript](https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg) | `typescript` | ![visualstudio](https://user-images.githubusercontent.com/59892368/216786259-d508335d-169c-4d37-8bfc-152f1665dca3.svg) | `visualstudio` |
-| ![visualstudiocode](https://user-images.githubusercontent.com/59892368/216786258-69130dda-076f-4811-8ce9-e9d9bb37e603.svg) | `visualstudiocode` | ![vitejs](https://user-images.githubusercontent.com/59892368/218274365-3eae86f7-7953-4209-b5e7-466c8335caa2.svg) | `vitejs` | ![vuejs](https://user-images.githubusercontent.com/59892368/215260542-defd6142-e8a8-44f5-8c8a-c6dfaf3d114a.svg) | `vuejs` | ![yarn](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774024-f3af28e4-40c9-4b02-b5e4-c33702c2fca0.svg) | `yarn` |
-</div>
-
-
-
-</details>
 
 
 
@@ -438,14 +405,66 @@ Array(0)
 
 
 
-
-
  </br>
  
  ---
  
 </br>    
 
+<!----------------------------------------------------------->
+<!--------------------------- STACK ICONS TABLE  ------------->
+<!--------------------------------------------------------- -->
+
+# <img width="50" height="50" alt="hook-svgrepo-com" src="https://github.com/user-attachments/assets/e91139f9-e37e-43d8-9fea-0283ef9537c5" />  Stack Icons
+
+> Stack icons for you to customize your cards; insert the labels in the Topics field of your repository.
+
+<details>
+
+<br/>
+<br/>
+
+<div align='center'>
+
+
+|  Logo  | Stack Name   |  Logo  | Stack Name   |   Logo  | Stack Name   |  Logo  | Stack Name   |                                                                                                                                                  
+| :---:  | ---        | :---:  | ---     |     :---:  | ---     |     :---:  | ---     |                                                                                                                                         
+| ![androidstudio](https://user-images.githubusercontent.com/59892368/216783644-f664d47c-f686-496d-8073-2e83b2b469ab.svg) | `androidstudio` |  ![angular](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532135-7c81a717-da75-4aeb-ab22-95fc2a3254be.svg) | `angular` | ![arduino](https://user-images.githubusercontent.com/59892368/216785825-af6a605c-6ca3-4bb5-9889-31ad818fb20b.svg) | `arduino` | ![aws](https://user-images.githubusercontent.com/59892368/215260536-748d14f8-5242-4d5a-9faf-6d62ed38a87a.svg) | `aws` |
+| ![babel](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285172839-1483ec96-ea00-4fa4-8daa-5b6c48294d4c.svg) | `babel` | ![bash](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/279798875-371442d4-bd43-4597-8075-ff506529c123.svg) | `bash` |  ![bitbucket](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285174758-c7b4d643-1b6c-4281-9e1e-a59ff4a8b36a.svg) | `bitbucket` | ![blender](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182560-49ae39de-ad6b-4b96-be9f-cddb58b2406c.svg) | `blender` |                                         
+| ![bootstrap](https://user-images.githubusercontent.com/59892368/218274368-89a94705-c5b1-42a6-813d-4aaa2a1334e3.svg) | `bootstrap` | ![c](https://user-images.githubusercontent.com/59892368/215260535-be3713a8-d075-4c85-88ca-4b3703f9e7b3.svg) | `c` | ![canva](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774022-8ae44b49-fbef-4868-b441-24a37490be36.svg) | `canva` | ![clion](https://user-images.githubusercontent.com/59892368/216813068-bc05f852-f006-4ff6-85e2-d8988f6afbf9.svg) | `clion` |
+| ![cpp](https://user-images.githubusercontent.com/59892368/215260533-1ede6b38-7c51-4c89-ac2c-a1195c2b912b.svg) | `cpp` | ![csharp](https://user-images.githubusercontent.com/59892368/215260532-33106206-6ca4-4d11-bdc3-9171491979a5.svg) | `csharp` | ![css3](https://user-images.githubusercontent.com/59892368/210762519-fc191098-1198-4668-9eb5-d0c1481da8c7.svg) | `css3` | ![dart](https://user-images.githubusercontent.com/59892368/215260531-179da616-9fc3-41de-99ed-15dddf2d021b.svg) | `dart` |
+| ![denojs](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532091-b11ecf66-5fb2-4158-b48a-99afc85c6a2b.svg) | `denojs` | ![django](https://user-images.githubusercontent.com/59892368/215260529-5fb18a51-b2bc-4092-8a87-f051f89dd30e.svg) | `django` | ![docker](https://user-images.githubusercontent.com/59892368/215260528-b50b803d-a037-4572-812b-95801f48c2bd.svg) | `docker` | ![dotnetcore](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774015-b4e62d28-bb35-4eb0-b10a-580db7ea0fed.svg) | `dotnetcore` |
+| ![eclipse](https://user-images.githubusercontent.com/59892368/216813192-3088dc66-c68e-4e06-b7d0-c7443e3230ed.svg) | `eclipse` | ![elixir](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177064-e7a06c1c-26a2-4d1c-8bde-59ec2c954d5f.svg) | `elixir` | ![eslint](https://user-images.githubusercontent.com/59892368/215260527-373e10c7-04d3-45c5-98b4-74bf586de7f6.svg) | `eslint` | ![expo](https://user-images.githubusercontent.com/59892368/210762516-b48ee0ef-9d7b-4d86-951b-b80515c39783.svg) | `expo` |
+| ![express](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285176547-ffc3317a-e03a-46ee-8bf0-a2566d2513fe.svg) | `express` | ![figma](https://user-images.githubusercontent.com/59892368/215260525-924e0be5-1f36-4d70-a21b-40382b01dab4.svg) | `figma` | ![firebase](https://user-images.githubusercontent.com/59892368/215260523-f958d8c1-8634-4b2c-a880-437f98b1538d.svg) | `firebase` | ![flask](https://user-images.githubusercontent.com/59892368/215260521-e80bde19-b70d-4866-8ef7-a836dd819e17.svg) | `flask` |
+| ![flutter](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177284-da3ab306-20d2-4048-a847-98c71b0468de.svg) | `flutter` | ![gatsby](https://user-images.githubusercontent.com/59892368/215260520-8e935c1a-46b2-451b-a87c-e9f4e7c081c4.svg) | `gatsby` | ![gimp](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177524-25e4a00e-e4f9-442b-a2b2-3f22c07be75e.svg) | `gimp` | ![git](https://user-images.githubusercontent.com/59892368/218274559-3cb134c3-4086-4c49-9f82-fe98f2469bbb.svg) | `git` |
+| ![go](https://user-images.githubusercontent.com/59892368/215260519-e619fbd8-c518-477b-9327-a3afa23f988e.svg) | `go` | ![googlecloud](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177670-cebc6b57-79e3-48df-b896-6d20f19073f0.svg) | `googlecloud` | ![graphql](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/279800785-18c9f9d5-f09d-49ab-ab4d-5ca358a967d4.svg) | `graphql` | ![grunt](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285177779-acc162d2-85f3-412f-9399-f9573eb83942.svg) | `grunt` |
+| ![gulpjs](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774029-c2eb189c-a8a1-4d02-8824-b185e176242a.svg) | `gulpjs` | ![haskell](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179295-4b4ca6ff-f290-4bfb-bb93-a6b8f35baee9.svg) | `haskell` | ![heroku](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179420-bd38fb43-1f35-408b-94d1-25de832db6e4.svg) | `heroku` | ![html5](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287469126-74b9f4a1-6862-40a4-bd56-311ce688db46.svg) | `html5` |
+| ![husky](https://user-images.githubusercontent.com/59892368/218274511-2650c740-a811-4b66-8d81-bf3d855d41f7.svg) | `husky` | ![inkscape](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179695-f0de754a-958f-49e4-8bd9-1b099ea18c23.svg) | `inkscape` | ![java](https://user-images.githubusercontent.com/59892368/215260518-171e0fb1-1cd7-4097-bcba-05089c6adf46.svg) | `java` | ![javascript](https://user-images.githubusercontent.com/59892368/210762520-8226f647-a814-4723-8e6d-ed0334550838.svg) | `javascript` |
+| ![jenkins](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179842-dc8fff7f-707a-4a2e-92e9-9e26d22031d7.svg) | `jenkins` | ![jest](https://user-images.githubusercontent.com/59892368/218274370-1e098c22-99fd-4514-b91f-0c4b38f5f888.svg) | `jest` | ![jira](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285179925-970136fc-83db-45bc-ba55-748383c44fd2.svg) | `jira` | ![jquery](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285180200-2545ece8-ef19-4b0f-a2e5-b548eb20abd7.svg) | `jquery` |
+| ![jupyter](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285180478-c04f5231-ffcc-498b-9f21-8f95ce165263.svg) | `jupyter` | ![kotlin](https://user-images.githubusercontent.com/59892368/215260517-8904a569-d2ec-48c4-8adc-660e929db93e.svg) | `kotlin` | ![kubernetes](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774027-6a7ef271-a387-464b-a622-c92ae83985e3.svg) | `kubernetes` | ![laravel](https://user-images.githubusercontent.com/59892368/215260515-4f3075d5-ce25-4824-87ff-736ccaf42311.svg) | `laravel` |
+| ![linux](https://user-images.githubusercontent.com/59892368/215260512-04a0d227-c913-4946-9ff4-b3fb691df5ff.svg) | `linux` | ![lua](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285180569-c8f60987-7e27-4c96-aef5-51059342747b.svg) | `lua` | ![markdown](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285180652-eb00dd78-63da-4a4a-96e0-c01c480c2d49.svg) | `markdown` | ![materialui](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285181152-550217a1-f188-4127-9a24-fc85f18b518d.svg) | `materialui` |
+| ![mongodb](https://user-images.githubusercontent.com/59892368/215260514-a4f02cca-c530-4de2-88ee-5250b24a1456.svg) | `mongodb` | ![mysql](https://user-images.githubusercontent.com/59892368/218274731-13fe41e3-ebf9-4bbb-a7d7-c8d43bf46c53.svg) | `mysql` | ![nestjs](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285181240-83984ea0-7fc3-4b55-b423-90ce2a1c911a.svg) | `nestjs` | ![netcore](https://user-images.githubusercontent.com/59892368/215260510-b72be359-f22b-4751-a8ab-41cd4f51c9c9.svg) | `netcore` |
+| ![nextjs](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532311-d8f52862-314c-4be7-aac4-7966823ac3cd.svg) | `nextjs` | ![nodejs](https://user-images.githubusercontent.com/59892368/210762525-21dfac80-b121-4517-b3dd-3f62fe413d5a.svg) | `nodejs` | ![npm](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287469113-6498d9f5-9884-43fd-b203-e9ae7de0984e.svg) | `npm` | ![objectc](https://user-images.githubusercontent.com/59892368/215260537-d56e6052-6182-4edb-a770-842de3b8c24f.svg) | `objectc` |
+| ![pearl](https://user-images.githubusercontent.com/59892368/218274369-fd7185b0-d50c-46fd-8ee1-c6bf36f1ccc6.svg) | `pearl` | ![php](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532082-10413e00-ab9c-4731-a4f6-578394d91e90.svg) | `php` | ![postgresql](https://user-images.githubusercontent.com/59892368/215260507-a1ab30ad-16c5-48b6-8442-4258d3fc828f.svg) | `postgresql` | ![prettier](https://user-images.githubusercontent.com/59892368/215260503-ce103bd2-0249-4be4-9a52-cd3044b30728.svg) | `prettier` |
+| ![prisma](https://user-images.githubusercontent.com/59892368/215260501-ff824fa1-ef05-4de7-af76-1586fc2ac91b.svg) | `prisma` | ![pycharm](https://user-images.githubusercontent.com/59892368/232259760-ec701be5-d9b6-408f-8581-f49e9713d301.svg) | `pycharm` | ![python](https://user-images.githubusercontent.com/59892368/215260500-73b6c85e-d843-4820-a771-b8bdb23ed2d2.svg) | `python` | ![r](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285181945-6a0d5457-5efa-44be-9af9-1064cd535910.svg) | `r` |
+| ![rails](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182048-4a59a52f-b518-4893-b488-0732fd591e17.svg) | `rails` | ![raspberrypi](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285181866-3260e7c9-ef30-469f-82d7-7f301622c7cf.svg) | `raspberrypi` | ![react](https://user-images.githubusercontent.com/59892368/210763677-ee1a0283-eea7-45de-9589-86d7c50a8cb0.svg) | `react` | ![reacticons](https://user-images.githubusercontent.com/59892368/210762509-d3078bc5-8c0c-4765-84f7-cf52532215d4.svg) | `reacticons` |
+| ![redux](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182129-c6253fa0-0b1a-4281-9e6e-f55c3278beb6.svg) | `redux` | ![ruby](https://user-images.githubusercontent.com/59892368/215260498-fefc4d46-7ff1-470c-a011-f73fe070c798.svg) | `ruby` | ![rust](https://user-images.githubusercontent.com/59892368/215260552-e120de00-00a0-4058-9e6f-83e10f552844.svg) | `rust` | ![salesforce](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182197-ff6e769b-a788-41e1-aea5-30af093f0d0b.svg) | `salesforce` |
+| ![sass](https://user-images.githubusercontent.com/59892368/210762521-7383ac1d-c896-4829-b531-61c9a4f0d7ea.svg) | `sass` | ![scala](https://user-images.githubusercontent.com/59892368/215260549-52bfb07f-bbf8-47fe-bc69-222c6211520a.svg) | `scala` | ![sequelize](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/285182291-2166a7ff-8217-4dc9-91e2-136a3ff7cd4e.svg) | `sequelize` | ![spring](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287532120-3da3c4d2-8b53-42b7-a0f6-a14487a6f291.svg) | `spring` |
+| ![sqlite](https://user-images.githubusercontent.com/59892368/215260548-83c41e10-09c6-4ddf-8e12-f56746d6b0f6.svg) | `sqlite` | ![storybook](https://user-images.githubusercontent.com/59892368/215260547-8d55e026-9652-45af-81b7-54f8e4c04d87.svg) | `storybook` | ![styledcomponents](https://user-images.githubusercontent.com/59892368/210762512-f8123c30-3992-4789-abe0-314fdcf45fe3.svg) | `styledcomponents` | ![swagger](https://user-images.githubusercontent.com/59892368/215260545-7ecf92e0-a09f-459b-83aa-e7f7ace9c3dc.svg) | `swagger` |
+| ![switch](https://user-images.githubusercontent.com/59892368/215260544-65e39534-eff5-405d-8739-49271ce21d18.svg) | `switch` | ![tailwind](https://user-images.githubusercontent.com/59892368/215260543-69c977bb-072a-4ed8-bdbc-6d2319098fcf.svg) | `tailwind` | ![typescript](https://user-images.githubusercontent.com/59892368/210762527-ae3afe1f-fe36-46a9-98ad-35dbae4d1adf.svg) | `typescript` | ![visualstudio](https://user-images.githubusercontent.com/59892368/216786259-d508335d-169c-4d37-8bfc-152f1665dca3.svg) | `visualstudio` |
+| ![visualstudiocode](https://user-images.githubusercontent.com/59892368/216786258-69130dda-076f-4811-8ce9-e9d9bb37e603.svg) | `visualstudiocode` | ![vitejs](https://user-images.githubusercontent.com/59892368/218274365-3eae86f7-7953-4209-b5e7-466c8335caa2.svg) | `vitejs` | ![vuejs](https://user-images.githubusercontent.com/59892368/215260542-defd6142-e8a8-44f5-8c8a-c6dfaf3d114a.svg) | `vuejs` | ![yarn](https://github-production-user-asset-6210df.s3.amazonaws.com/59892368/287774024-f3af28e4-40c9-4b02-b5e4-c33702c2fca0.svg) | `yarn` |
+</div>
+
+
+
+</details>
+
+
+
+
+ </br>
+</br>    
+</br>    
 
   
 
@@ -458,6 +477,7 @@ Array(0)
 
 # <img width="50" height="50" alt="hook-svgrepo-com" src="https://github.com/user-attachments/assets/9d0e91e7-d6f4-4a99-aed7-2aa8211d6e8f" /> <img width="50" height="50" alt="abstract" src="https://github.com/user-attachments/assets/228dc2cb-8aad-4d79-9d9a-71bd39e201af" /> Hook & Components
 
+> Learn more about the Hook and Components that render the Stack icons.
    
  <details>   
 
@@ -580,11 +600,8 @@ Array(0)
 
 
  </br>
- 
-
- 
-</br>  
-
+</br>    
+</br>    
 
 
 
@@ -668,13 +685,17 @@ Array(0)
 
 
  </br>
- 
-
- 
-</br>  
+</br>    
+</br>    
 
 
-## <img  alt="NextJS"  width="50" height="50" src="https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/eb3732e9-d3a9-4f9f-b706-8969557681aa"> React Query Config.
+<!----------------------------------------------------------->
+<!--------------------------- REACT QUERY ------------->
+<!--------------------------------------------------------- -->
+
+
+
+# <img  alt="NextJS"  width="50" height="50" src="https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/eb3732e9-d3a9-4f9f-b706-8969557681aa"> React Query Config.
 
 > [!NOTE]
 > Follow the official standard React Query installation instructions.
@@ -725,6 +746,7 @@ const { data, isLoading } = useGitHubAutomatedRepos('digoarthur', 'attached', {
   
   
   
+
 
 
 
