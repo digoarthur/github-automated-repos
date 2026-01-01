@@ -132,22 +132,34 @@ https://user-images.githubusercontent.com/59892368/219479919-5e84de50-6b7d-4d42-
 
 
 
+
+
 <p align="center" alt="github-automated-repos summary">
 
-<a href="https://github.com/digoarthur/github-automated-repos?tab=readme-ov-file#--about-library-">
-    <img   src="https://github.com/user-attachments/assets/fa24923b-77a4-4ac5-ab83-215120c74296" alt="About Library" >
-<a/> &nbsp;&nbsp;
+
 <a href="https://github.com/digoarthur/github-automated-repos?tab=readme-ov-file#init---cli">
     <img   src="https://github.com/user-attachments/assets/d257063a-cc08-4b34-abac-a8babc84f2a5" alt="init - CLI" border="0">
 <a/>&nbsp;&nbsp;
 
- <a href="https://github.com/DIGOARTHUR/github-automated-repos/?tab=readme-ov-file#-fill-in-the-fields-in-the-github-repository">
-    <img   src="https://github.com/user-attachments/assets/680108d9-5dc6-4767-aa1a-50bc3485943e" alt="Fill the fields of the repository (GitHub)" border="0">
+ <a href="https://github.com/digoarthur/github-automated-repos?tab=readme-ov-file#--stack-icons">
+    <img   src="https://github.com/user-attachments/assets/c0dd0201-8bf7-4c98-9c32-5beec64b2391" alt="Stack Icons" border="0">
 <a/>&nbsp;&nbsp;
 
-<a href="https://github.com/DIGOARTHUR/github-automated-repos/?tab=readme-ov-file#code-example">
-    <img   src="https://github.com/user-attachments/assets/f86d5d29-821b-4f2f-b16b-df6fa5db5f82" alt="Code Example" border="0">
+<a href="https://github.com/digoarthur/github-automated-repos?tab=readme-ov-file#--hook--components">
+    <img   src="https://github.com/user-attachments/assets/d0abe7af-f6ca-4d41-b881-f49af94b051a" alt="Hook & Components" border="0">
 <a/> &nbsp;&nbsp;
+
+
+ <a href="https://github.com/digoarthur/github-automated-repos?tab=readme-ov-file#-fill-in-the-fields-in-the-github-repository">
+    <img   src="https://github.com/user-attachments/assets/1d66d03c-8b53-4752-a6a8-6c23672b82871" alt="Fill the fields of the repository (GitHub)" border="0">
+<a/>&nbsp;&nbsp;
+
+
+
+
+ <a href="https://github.com/digoarthur/github-automated-repos?tab=readme-ov-file#-react-query-config">
+    <img   src="https://github.com/user-attachments/assets/45292a01-343a-422c-8500-2616ac5a2af3" alt="React Query Config." border="0">
+<a/>&nbsp;&nbsp;
 
 
 </p>
@@ -248,7 +260,7 @@ Next, you’ll choose a keyword (for example: <code> attached  </code>,  <code>p
 
 
 
-## 3. Page Generation Example (cmd)
+## 3. Terminal Result
 
 ```yaml
 √ Target file already exists:
@@ -265,14 +277,7 @@ What would you like to do? » Overwrite
 Init finished successfully.
 ```
 
-## 4. Result
 
-Your project page is now ready 🎉
-
-```arduino
-✨ Your project page is ready!
-🔗 http://localhost:3000/projects
-```
 
 
 
@@ -284,7 +289,7 @@ Your project page is now ready 🎉
 
 
 
-## 5. Banner
+## 4. Banner
 
 > Insert banner, layout images to represent your project. Types are `.PNG` and `.SVG`. For this to be possible, the name of the image file must contain `banner`in the name. Insert your images in the following path: Ex.:
 
@@ -311,12 +316,12 @@ Your project page is now ready 🎉
 
 
 
-## 6. Choose the repositories and fill in the Topics field with the keyword you determined.
+## 5. Choose the repositories and fill in the Topics field with the keyword you determined.
 
 ![image](https://github.com/DIGOARTHUR/github-automated-repos/assets/59892368/9a0a0aaf-02e8-4a7f-8390-6e7fb4a3ea53)
 
 > [!IMPORTANT]
-> To insert stack names in the topics field, see web documentation or the table below.  > [Stack Icons](https://github-automated-repos.vercel.app)
+> To insert stack names in the topics field, see web documentation or the table below.  > [Stack Icons](https://github.com/digoarthur/github-automated-repos?tab=readme-ov-file#--stack-icons)
 
 <div align="center" alt='stackIcons List'>
     
@@ -356,7 +361,7 @@ Your project page is now ready 🎉
 </div>
 
 
-## 7. ✅Ready! JSON - Data from repositories chosen by you!
+## 6. ✅Ready! JSON - Data from repositories chosen by you!
 > [!TIP]
 >  Customize your cards your way
 
@@ -719,13 +724,13 @@ const { data, isLoading } = useGitHubAutomatedRepos('digoarthur', 'attached', {
 
 
 
-
+<br> 
 <br> 
 
 ---
 
 <br>  
-
+<br> 
        
 
 
@@ -741,11 +746,17 @@ const { data, isLoading } = useGitHubAutomatedRepos('digoarthur', 'attached', {
   
 
 
+<div align="center">
+    
+**[github-automated-repos-cli](https://github.com/digoarthur/github-automated-repos-cli)**
+
+</div>
 
 
   
   
   
+
 
 
 
